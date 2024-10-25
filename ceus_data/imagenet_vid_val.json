@@ -1,0 +1,2764 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "benign",
+            "encode_name": "benign"
+        },
+        {
+            "id": 1,
+            "name": "malignant",
+            "encode_name": "malignant"
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "name": "benign/115/202206161154210074BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 2,
+            "name": "benign/20/202110261028120022BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 3,
+            "name": "benign/14/202112101143320016BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 4,
+            "name": "benign/8/202109271343240048BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 5,
+            "name": "benign/2/202107051046540012BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 6,
+            "name": "benign/199/202108241112440024BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 7,
+            "name": "benign/136/202204260933490011BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 8,
+            "name": "benign/69/202203151000180008BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 9,
+            "name": "benign/28/202205231038010043BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 10,
+            "name": "benign/135/202112171017350024BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 11,
+            "name": "benign/130/202106241039330063BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 12,
+            "name": "benign/66/202108101215080035BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 13,
+            "name": "benign/212/202112060959490043BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 14,
+            "name": "benign/127/202209260928250016BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 15,
+            "name": "benign/165/202203111120310026BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 16,
+            "name": "benign/89/202109271150580038BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 17,
+            "name": "benign/116/202110150907080010BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 18,
+            "name": "benign/16/202107021129400056BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 19,
+            "name": "benign/187/202209261151470041BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 20,
+            "name": "benign/80/202203041011120017BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 21,
+            "name": "benign/63/202205091026580037BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 22,
+            "name": "benign/155/202208011051400011BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 23,
+            "name": "benign/32/202106081202090053BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 24,
+            "name": "benign/160/202107021057330042BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 25,
+            "name": "benign/234/202111231046360045BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 26,
+            "name": "benign/41/202206270931050008BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 27,
+            "name": "benign/6/202205101140060022BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 28,
+            "name": "benign/196/202111021014020023BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 29,
+            "name": "benign/74/202206151114380023BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 30,
+            "name": "benign/198/202211151153310068BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 31,
+            "name": "benign/87/202203101050140020BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 32,
+            "name": "benign/22/202111190949320011BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 33,
+            "name": "benign/92/202206161156230075BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 34,
+            "name": "benign/137/202205091136550060BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 35,
+            "name": "benign/104/202108230928420008BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 36,
+            "name": "benign/118/202203181152180085BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 37,
+            "name": "benign/13/202110220955300050BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 38,
+            "name": "benign/48/202111041616280022BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 39,
+            "name": "benign/184/202207071229180025BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 40,
+            "name": "benign/15/202206300932070010BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 41,
+            "name": "benign/190/202204281143210031BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 42,
+            "name": "benign/90/202108231042580036BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 43,
+            "name": "benign/164/202108031153240047BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 44,
+            "name": "benign/25/202205181003500027BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 45,
+            "name": "benign/231/202106240921460019BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 46,
+            "name": "benign/173/202108101144480024BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 47,
+            "name": "benign/43/202211101126400050BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 48,
+            "name": "benign/78/202201251039240002BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 49,
+            "name": "malignant/115/202203161103250036BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 50,
+            "name": "malignant/20/202306261208160288BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 51,
+            "name": "malignant/14/202305120945140009BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 52,
+            "name": "malignant/8/202209201553230022BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 53,
+            "name": "malignant/2/202011161227040006BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 54,
+            "name": "malignant/238/202107210930380032BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 55,
+            "name": "malignant/132/202107061157090007BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 56,
+            "name": "malignant/156/202203041032040026BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 57,
+            "name": "malignant/103/202206021731200067BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 58,
+            "name": "malignant/46/202309061136300059BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 59,
+            "name": "malignant/135/202309211009590010BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 60,
+            "name": "malignant/130/202109011033330057BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 61,
+            "name": "malignant/66/202112151003060042BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 62,
+            "name": "malignant/212/202303020927150010BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 63,
+            "name": "malignant/127/202105211150480047BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 64,
+            "name": "malignant/165/202303061106030010BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 65,
+            "name": "malignant/131/202112061104270069BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 66,
+            "name": "malignant/236/202112011646320059BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 67,
+            "name": "malignant/153/202108231108380057BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 68,
+            "name": "malignant/99/202207081058240076BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 69,
+            "name": "malignant/147/202205271041000045BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 70,
+            "name": "malignant/101/202109231728080146BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 71,
+            "name": "malignant/194/202110151004220035BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 72,
+            "name": "malignant/42/202209061010220013BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 73,
+            "name": "malignant/244/202209151007010013BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 74,
+            "name": "malignant/9/202304180937440011BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 75,
+            "name": "malignant/169/202201060953180010BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 76,
+            "name": "malignant/126/202112101036400082BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 77,
+            "name": "malignant/88/202108261005060012BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 78,
+            "name": "malignant/91/202202240953180009BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 79,
+            "name": "malignant/47/202110111030330043BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 80,
+            "name": "malignant/82/202107131100390152BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 81,
+            "name": "malignant/180/202204211059080010BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 82,
+            "name": "malignant/52/202210091156030041BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 83,
+            "name": "malignant/12/202201070947510009BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 84,
+            "name": "malignant/137/202109130936170024BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 85,
+            "name": "malignant/104/202302241158490019BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 86,
+            "name": "malignant/118/202110091047210028BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 87,
+            "name": "malignant/13/202304061138390033BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 88,
+            "name": "malignant/48/202304181207470058BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 89,
+            "name": "malignant/151/202309051255290023BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 90,
+            "name": "malignant/189/202303091020290027BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 91,
+            "name": "malignant/227/202205181038100051BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 92,
+            "name": "malignant/112/202108031153240047BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 93,
+            "name": "malignant/96/202305081158210020BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 94,
+            "name": "malignant/84/202203161118220047BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 95,
+            "name": "malignant/217/202112291021000039BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 96,
+            "name": "malignant/85/202108251127530028BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 97,
+            "name": "malignant/77/202203110915470010BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        },
+        {
+            "id": 98,
+            "name": "malignant/120/202205111126360032BREAST",
+            "vid_train_frames": [
+                10
+            ]
+        }
+    ],
+    "images": [
+        {
+            "file_name": "benign/115/202206161154210074BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 1,
+            "frame_id": 10,
+            "video_id": 1,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/20/202110261028120022BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 2,
+            "frame_id": 10,
+            "video_id": 2,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/14/202112101143320016BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 3,
+            "frame_id": 10,
+            "video_id": 3,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/8/202109271343240048BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 4,
+            "frame_id": 10,
+            "video_id": 4,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/2/202107051046540012BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 5,
+            "frame_id": 10,
+            "video_id": 5,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/199/202108241112440024BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 6,
+            "frame_id": 10,
+            "video_id": 6,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/136/202204260933490011BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 7,
+            "frame_id": 10,
+            "video_id": 7,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/69/202203151000180008BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 8,
+            "frame_id": 10,
+            "video_id": 8,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/28/202205231038010043BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 9,
+            "frame_id": 10,
+            "video_id": 9,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/135/202112171017350024BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 10,
+            "frame_id": 10,
+            "video_id": 10,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/130/202106241039330063BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 11,
+            "frame_id": 10,
+            "video_id": 11,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/66/202108101215080035BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 12,
+            "frame_id": 10,
+            "video_id": 12,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/212/202112060959490043BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 13,
+            "frame_id": 10,
+            "video_id": 13,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/127/202209260928250016BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 14,
+            "frame_id": 10,
+            "video_id": 14,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/165/202203111120310026BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 15,
+            "frame_id": 10,
+            "video_id": 15,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/89/202109271150580038BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 16,
+            "frame_id": 10,
+            "video_id": 16,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/116/202110150907080010BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 17,
+            "frame_id": 10,
+            "video_id": 17,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/16/202107021129400056BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 18,
+            "frame_id": 10,
+            "video_id": 18,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/187/202209261151470041BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 19,
+            "frame_id": 10,
+            "video_id": 19,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/80/202203041011120017BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 20,
+            "frame_id": 10,
+            "video_id": 20,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/63/202205091026580037BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 21,
+            "frame_id": 10,
+            "video_id": 21,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/155/202208011051400011BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 22,
+            "frame_id": 10,
+            "video_id": 22,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/32/202106081202090053BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 23,
+            "frame_id": 10,
+            "video_id": 23,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/160/202107021057330042BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 24,
+            "frame_id": 10,
+            "video_id": 24,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/234/202111231046360045BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 25,
+            "frame_id": 10,
+            "video_id": 25,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/41/202206270931050008BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 26,
+            "frame_id": 10,
+            "video_id": 26,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/6/202205101140060022BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 27,
+            "frame_id": 10,
+            "video_id": 27,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/196/202111021014020023BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 28,
+            "frame_id": 10,
+            "video_id": 28,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/74/202206151114380023BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 29,
+            "frame_id": 10,
+            "video_id": 29,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/198/202211151153310068BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 30,
+            "frame_id": 10,
+            "video_id": 30,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/87/202203101050140020BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 31,
+            "frame_id": 10,
+            "video_id": 31,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/22/202111190949320011BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 32,
+            "frame_id": 10,
+            "video_id": 32,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/92/202206161156230075BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 33,
+            "frame_id": 10,
+            "video_id": 33,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/137/202205091136550060BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 34,
+            "frame_id": 10,
+            "video_id": 34,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/104/202108230928420008BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 35,
+            "frame_id": 10,
+            "video_id": 35,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/118/202203181152180085BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 36,
+            "frame_id": 10,
+            "video_id": 36,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/13/202110220955300050BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 37,
+            "frame_id": 10,
+            "video_id": 37,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/48/202111041616280022BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 38,
+            "frame_id": 10,
+            "video_id": 38,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/184/202207071229180025BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 39,
+            "frame_id": 10,
+            "video_id": 39,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/15/202206300932070010BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 40,
+            "frame_id": 10,
+            "video_id": 40,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/190/202204281143210031BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 41,
+            "frame_id": 10,
+            "video_id": 41,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/90/202108231042580036BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 42,
+            "frame_id": 10,
+            "video_id": 42,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/164/202108031153240047BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 43,
+            "frame_id": 10,
+            "video_id": 43,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/25/202205181003500027BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 44,
+            "frame_id": 10,
+            "video_id": 44,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/231/202106240921460019BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 45,
+            "frame_id": 10,
+            "video_id": 45,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/173/202108101144480024BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 46,
+            "frame_id": 10,
+            "video_id": 46,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/43/202211101126400050BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 47,
+            "frame_id": 10,
+            "video_id": 47,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "benign/78/202201251039240002BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 48,
+            "frame_id": 10,
+            "video_id": 48,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/115/202203161103250036BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 49,
+            "frame_id": 10,
+            "video_id": 49,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/20/202306261208160288BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 50,
+            "frame_id": 10,
+            "video_id": 50,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/14/202305120945140009BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 51,
+            "frame_id": 10,
+            "video_id": 51,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/8/202209201553230022BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 52,
+            "frame_id": 10,
+            "video_id": 52,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/2/202011161227040006BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 53,
+            "frame_id": 10,
+            "video_id": 53,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/238/202107210930380032BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 54,
+            "frame_id": 10,
+            "video_id": 54,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/132/202107061157090007BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 55,
+            "frame_id": 10,
+            "video_id": 55,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/156/202203041032040026BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 56,
+            "frame_id": 10,
+            "video_id": 56,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/103/202206021731200067BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 57,
+            "frame_id": 10,
+            "video_id": 57,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/46/202309061136300059BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 58,
+            "frame_id": 10,
+            "video_id": 58,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/135/202309211009590010BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 59,
+            "frame_id": 10,
+            "video_id": 59,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/130/202109011033330057BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 60,
+            "frame_id": 10,
+            "video_id": 60,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/66/202112151003060042BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 61,
+            "frame_id": 10,
+            "video_id": 61,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/212/202303020927150010BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 62,
+            "frame_id": 10,
+            "video_id": 62,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/127/202105211150480047BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 63,
+            "frame_id": 10,
+            "video_id": 63,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/165/202303061106030010BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 64,
+            "frame_id": 10,
+            "video_id": 64,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/131/202112061104270069BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 65,
+            "frame_id": 10,
+            "video_id": 65,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/236/202112011646320059BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 66,
+            "frame_id": 10,
+            "video_id": 66,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/153/202108231108380057BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 67,
+            "frame_id": 10,
+            "video_id": 67,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/99/202207081058240076BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 68,
+            "frame_id": 10,
+            "video_id": 68,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/147/202205271041000045BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 69,
+            "frame_id": 10,
+            "video_id": 69,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/101/202109231728080146BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 70,
+            "frame_id": 10,
+            "video_id": 70,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/194/202110151004220035BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 71,
+            "frame_id": 10,
+            "video_id": 71,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/42/202209061010220013BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 72,
+            "frame_id": 10,
+            "video_id": 72,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/244/202209151007010013BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 73,
+            "frame_id": 10,
+            "video_id": 73,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/9/202304180937440011BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 74,
+            "frame_id": 10,
+            "video_id": 74,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/169/202201060953180010BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 75,
+            "frame_id": 10,
+            "video_id": 75,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/126/202112101036400082BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 76,
+            "frame_id": 10,
+            "video_id": 76,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/88/202108261005060012BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 77,
+            "frame_id": 10,
+            "video_id": 77,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/91/202202240953180009BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 78,
+            "frame_id": 10,
+            "video_id": 78,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/47/202110111030330043BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 79,
+            "frame_id": 10,
+            "video_id": 79,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/82/202107131100390152BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 80,
+            "frame_id": 10,
+            "video_id": 80,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/180/202204211059080010BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 81,
+            "frame_id": 10,
+            "video_id": 81,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/52/202210091156030041BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 82,
+            "frame_id": 10,
+            "video_id": 82,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/12/202201070947510009BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 83,
+            "frame_id": 10,
+            "video_id": 83,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/137/202109130936170024BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 84,
+            "frame_id": 10,
+            "video_id": 84,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/104/202302241158490019BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 85,
+            "frame_id": 10,
+            "video_id": 85,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/118/202110091047210028BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 86,
+            "frame_id": 10,
+            "video_id": 86,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/13/202304061138390033BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 87,
+            "frame_id": 10,
+            "video_id": 87,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/48/202304181207470058BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 88,
+            "frame_id": 10,
+            "video_id": 88,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/151/202309051255290023BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 89,
+            "frame_id": 10,
+            "video_id": 89,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/189/202303091020290027BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 90,
+            "frame_id": 10,
+            "video_id": 90,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/227/202205181038100051BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 91,
+            "frame_id": 10,
+            "video_id": 91,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/112/202108031153240047BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 92,
+            "frame_id": 10,
+            "video_id": 92,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/96/202305081158210020BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 93,
+            "frame_id": 10,
+            "video_id": 93,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/84/202203161118220047BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 94,
+            "frame_id": 10,
+            "video_id": 94,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/217/202112291021000039BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 95,
+            "frame_id": 10,
+            "video_id": 95,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/85/202108251127530028BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 96,
+            "frame_id": 10,
+            "video_id": 96,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/77/202203110915470010BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 97,
+            "frame_id": 10,
+            "video_id": 97,
+            "is_vid_train_frame": true
+        },
+        {
+            "file_name": "malignant/120/202205111126360032BREAST/10.jpg",
+            "hight": 582,
+            "width": 1100,
+            "id": 98,
+            "frame_id": 10,
+            "video_id": 98,
+            "is_vid_train_frame": true
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "video_id": 1,
+            "image_id": 1,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/115/202206161154210074BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 2,
+            "video_id": 2,
+            "image_id": 2,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/20/202110261028120022BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 3,
+            "video_id": 3,
+            "image_id": 3,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/14/202112101143320016BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 4,
+            "video_id": 4,
+            "image_id": 4,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/8/202109271343240048BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 5,
+            "video_id": 5,
+            "image_id": 5,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/2/202107051046540012BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 6,
+            "video_id": 6,
+            "image_id": 6,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/199/202108241112440024BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 7,
+            "video_id": 7,
+            "image_id": 7,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/136/202204260933490011BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 8,
+            "video_id": 8,
+            "image_id": 8,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/69/202203151000180008BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 9,
+            "video_id": 9,
+            "image_id": 9,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/28/202205231038010043BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 10,
+            "video_id": 10,
+            "image_id": 10,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/135/202112171017350024BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 11,
+            "video_id": 11,
+            "image_id": 11,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/130/202106241039330063BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 12,
+            "video_id": 12,
+            "image_id": 12,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/66/202108101215080035BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 13,
+            "video_id": 13,
+            "image_id": 13,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/212/202112060959490043BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 14,
+            "video_id": 14,
+            "image_id": 14,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/127/202209260928250016BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 15,
+            "video_id": 15,
+            "image_id": 15,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/165/202203111120310026BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 16,
+            "video_id": 16,
+            "image_id": 16,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/89/202109271150580038BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 17,
+            "video_id": 17,
+            "image_id": 17,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/116/202110150907080010BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 18,
+            "video_id": 18,
+            "image_id": 18,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/16/202107021129400056BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 19,
+            "video_id": 19,
+            "image_id": 19,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/187/202209261151470041BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 20,
+            "video_id": 20,
+            "image_id": 20,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/80/202203041011120017BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 21,
+            "video_id": 21,
+            "image_id": 21,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/63/202205091026580037BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 22,
+            "video_id": 22,
+            "image_id": 22,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/155/202208011051400011BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 23,
+            "video_id": 23,
+            "image_id": 23,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/32/202106081202090053BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 24,
+            "video_id": 24,
+            "image_id": 24,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/160/202107021057330042BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 25,
+            "video_id": 25,
+            "image_id": 25,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/234/202111231046360045BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 26,
+            "video_id": 26,
+            "image_id": 26,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/41/202206270931050008BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 27,
+            "video_id": 27,
+            "image_id": 27,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/6/202205101140060022BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 28,
+            "video_id": 28,
+            "image_id": 28,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/196/202111021014020023BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 29,
+            "video_id": 29,
+            "image_id": 29,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/74/202206151114380023BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 30,
+            "video_id": 30,
+            "image_id": 30,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/198/202211151153310068BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 31,
+            "video_id": 31,
+            "image_id": 31,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/87/202203101050140020BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 32,
+            "video_id": 32,
+            "image_id": 32,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/22/202111190949320011BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 33,
+            "video_id": 33,
+            "image_id": 33,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/92/202206161156230075BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 34,
+            "video_id": 34,
+            "image_id": 34,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/137/202205091136550060BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 35,
+            "video_id": 35,
+            "image_id": 35,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/104/202108230928420008BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 36,
+            "video_id": 36,
+            "image_id": 36,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/118/202203181152180085BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 37,
+            "video_id": 37,
+            "image_id": 37,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/13/202110220955300050BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 38,
+            "video_id": 38,
+            "image_id": 38,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/48/202111041616280022BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 39,
+            "video_id": 39,
+            "image_id": 39,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/184/202207071229180025BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 40,
+            "video_id": 40,
+            "image_id": 40,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/15/202206300932070010BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 41,
+            "video_id": 41,
+            "image_id": 41,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/190/202204281143210031BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 42,
+            "video_id": 42,
+            "image_id": 42,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/90/202108231042580036BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 43,
+            "video_id": 43,
+            "image_id": 43,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/164/202108031153240047BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 44,
+            "video_id": 44,
+            "image_id": 44,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/25/202205181003500027BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 45,
+            "video_id": 45,
+            "image_id": 45,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/231/202106240921460019BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 46,
+            "video_id": 46,
+            "image_id": 46,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/173/202108101144480024BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 47,
+            "video_id": 47,
+            "image_id": 47,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/43/202211101126400050BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 48,
+            "video_id": 48,
+            "image_id": 48,
+            "category_id": 0,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/benign/78/202201251039240002BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 49,
+            "video_id": 49,
+            "image_id": 49,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/115/202203161103250036BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 50,
+            "video_id": 50,
+            "image_id": 50,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/20/202306261208160288BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 51,
+            "video_id": 51,
+            "image_id": 51,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/14/202305120945140009BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 52,
+            "video_id": 52,
+            "image_id": 52,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/8/202209201553230022BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 53,
+            "video_id": 53,
+            "image_id": 53,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/2/202011161227040006BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 54,
+            "video_id": 54,
+            "image_id": 54,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/238/202107210930380032BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 55,
+            "video_id": 55,
+            "image_id": 55,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/132/202107061157090007BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 56,
+            "video_id": 56,
+            "image_id": 56,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/156/202203041032040026BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 57,
+            "video_id": 57,
+            "image_id": 57,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/103/202206021731200067BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 58,
+            "video_id": 58,
+            "image_id": 58,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/46/202309061136300059BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 59,
+            "video_id": 59,
+            "image_id": 59,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/135/202309211009590010BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 60,
+            "video_id": 60,
+            "image_id": 60,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/130/202109011033330057BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 61,
+            "video_id": 61,
+            "image_id": 61,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/66/202112151003060042BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 62,
+            "video_id": 62,
+            "image_id": 62,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/212/202303020927150010BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 63,
+            "video_id": 63,
+            "image_id": 63,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/127/202105211150480047BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 64,
+            "video_id": 64,
+            "image_id": 64,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/165/202303061106030010BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 65,
+            "video_id": 65,
+            "image_id": 65,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/131/202112061104270069BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 66,
+            "video_id": 66,
+            "image_id": 66,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/236/202112011646320059BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 67,
+            "video_id": 67,
+            "image_id": 67,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/153/202108231108380057BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 68,
+            "video_id": 68,
+            "image_id": 68,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/99/202207081058240076BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 69,
+            "video_id": 69,
+            "image_id": 69,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/147/202205271041000045BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 70,
+            "video_id": 70,
+            "image_id": 70,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/101/202109231728080146BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 71,
+            "video_id": 71,
+            "image_id": 71,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/194/202110151004220035BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 72,
+            "video_id": 72,
+            "image_id": 72,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/42/202209061010220013BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 73,
+            "video_id": 73,
+            "image_id": 73,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/244/202209151007010013BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 74,
+            "video_id": 74,
+            "image_id": 74,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/9/202304180937440011BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 75,
+            "video_id": 75,
+            "image_id": 75,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/169/202201060953180010BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 76,
+            "video_id": 76,
+            "image_id": 76,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/126/202112101036400082BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 77,
+            "video_id": 77,
+            "image_id": 77,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/88/202108261005060012BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 78,
+            "video_id": 78,
+            "image_id": 78,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/91/202202240953180009BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 79,
+            "video_id": 79,
+            "image_id": 79,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/47/202110111030330043BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 80,
+            "video_id": 80,
+            "image_id": 80,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/82/202107131100390152BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 81,
+            "video_id": 81,
+            "image_id": 81,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/180/202204211059080010BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 82,
+            "video_id": 82,
+            "image_id": 82,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/52/202210091156030041BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 83,
+            "video_id": 83,
+            "image_id": 83,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/12/202201070947510009BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 84,
+            "video_id": 84,
+            "image_id": 84,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/137/202109130936170024BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 85,
+            "video_id": 85,
+            "image_id": 85,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/104/202302241158490019BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 86,
+            "video_id": 86,
+            "image_id": 86,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/118/202110091047210028BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 87,
+            "video_id": 87,
+            "image_id": 87,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/13/202304061138390033BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 88,
+            "video_id": 88,
+            "image_id": 88,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/48/202304181207470058BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 89,
+            "video_id": 89,
+            "image_id": 89,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/151/202309051255290023BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 90,
+            "video_id": 90,
+            "image_id": 90,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/189/202303091020290027BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 91,
+            "video_id": 91,
+            "image_id": 91,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/227/202205181038100051BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 92,
+            "video_id": 92,
+            "image_id": 92,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/112/202108031153240047BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 93,
+            "video_id": 93,
+            "image_id": 93,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/96/202305081158210020BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 94,
+            "video_id": 94,
+            "image_id": 94,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/84/202203161118220047BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 95,
+            "video_id": 95,
+            "image_id": 95,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/217/202112291021000039BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 96,
+            "video_id": 96,
+            "image_id": 96,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/85/202108251127530028BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 97,
+            "video_id": 97,
+            "image_id": 97,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/77/202203110915470010BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        },
+        {
+            "id": 98,
+            "video_id": 98,
+            "image_id": 98,
+            "category_id": 1,
+            "instance_id": 1,
+            "mask_path": "/home/cbl/Ceusformer/ceus_data/rawframes/malignant/120/202205111126360032BREAST/10_mask.png",
+            "area": 0,
+            "iscrowd": false,
+            "occluded": false,
+            "generated": false
+        }
+    ]
+}
