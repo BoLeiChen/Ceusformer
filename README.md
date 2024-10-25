@@ -12,7 +12,11 @@ Coming Soon ...
 See the ceus_data directory for data examples and formats. 
 
 # Getting Started
-Coming soon...
+(1) Training
+python main.py --output_dir ./run/self_attn_final_exp1 --data_mode 5frames --batch_size 2 --lr 5e-4 --masks --cache_mode
+
+(2) Testing
+python main.py --output_dir ./run/self_attn_final_exp1 --data_mode '5frames' --batch_size 4 --lr 5e-5 --masks --cache_mode --eval --resume your_mode_path
 
 # Examples and Demos
 
